@@ -1,0 +1,10 @@
+.jumbotron{
+  background: url('./samson-duborg-rankin-91091.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 40vh;
+  color: #fff;
+}
+.top{
+  margin-top: 100px;
+}
